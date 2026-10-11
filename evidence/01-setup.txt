@@ -1,0 +1,7 @@
+parent repository: https://github.com/AmalChUm/websitetemplate
+
+fork URL: https://github.com/pintsizedcoder/Personal-Website.git
+local folder: C:\Users\13852\Workspace\resume-website-contribution
+default branch: main/master
+
+initial site behavior: Site loads, displays Varad Bhogayata's personal website, very polished template. 
