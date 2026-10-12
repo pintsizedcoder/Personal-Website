@@ -1,0 +1,16 @@
+Open every navigation link: Done
+
+Test the resume download link: Done
+
+Test GitHub, LinkedIn, email, and project links: Done
+
+Check for spelling, grammar, and placeholder text: Done
+
+Confirm images load and have useful alternative text when appropriate: Done
+
+Confirm that no private credentials or sensitive information are present: Done
+
+Check that the deployed site matches the final repository version: Done
+
+
+URL: https://pintsizedcoder.github.io/Personal-Website/
